@@ -2,8 +2,8 @@
 ## Links
 [Link to Netlify Project](https://darling-longma-e101b4.netlify.app/dashboard).<br>
 [Link to GitHub Repo](https://github.com/Dante2145/EasyRent-React) [<em>Note: Private Access</em>]<br>
-[Link to GitHub Repo](https://github.com/sebprestele/financial-dashboard-fullstack)<br>
-[Link to GitHub Repo](https://github.com/MorgDzh/Multifunctional-React-Dashboard)<br>
+[Link to Financial GitHub Repo](https://github.com/sebprestele/financial-dashboard-fullstack)<br>
+[Link to MultiFunctional GitHub Repo](https://github.com/MorgDzh/Multifunctional-React-Dashboard)<br>
 <br>
 <em> Reminder to Daniel to change the Domain name in Netlify </em>
 
